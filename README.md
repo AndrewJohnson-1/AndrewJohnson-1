@@ -3,10 +3,6 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
   - [Microsoft Azure](https://github.com/andrewjohnson-1/LABURL)
-**Goal:** Build and administer a hybrid identity environment the way a real
-organization would run one — an on-premises-style Active Directory domain,
-synced to the cloud via Microsoft Entra ID, with Group Policy, MFA, and
-Conditional Access layered on top.
 
 <h2>📃 Certifications</h2>
 
