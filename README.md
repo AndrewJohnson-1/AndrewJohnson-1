@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  - [Microsoft Azure](https://github.com/andrewjohnson-1/LABURL)
+- <b>Microsoft Azure)</b>
 
 <h2>📃 Certifications</h2>
 
