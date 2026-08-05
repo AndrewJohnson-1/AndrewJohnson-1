@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Active Directory Home Lab](https://github.com/AndrewJohnson-1/ActiveDirectoryLab)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AndrewJohnson-1/ActiveDirectoryLab)
 
 <h2>📃 Certifications</h2>
 
