@@ -1,5 +1,4 @@
-<h1>Hi, I'm Andrew an IT Professional! 🫡</h2> <a href="https://github.com/joshmadakor1">Programmer</a>
-
+<h1>Hi, I'm Andrew! <br/><a href="https://github.com/AndrewJohnson-1/AndrewJohnson-1">IT Professional</a>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
