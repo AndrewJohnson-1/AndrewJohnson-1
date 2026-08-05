@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure)</b>
+- <b>Microsoft Azure</b>
 
 <h2>📃 Certifications</h2>
 
