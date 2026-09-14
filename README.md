@@ -5,7 +5,7 @@
   - [Implementing (On-premises) in Azure](https://github.com/AndrewJohnson-1/ActiveDirectoryLab)
 
 - <b>osTicket</b>
-  - [Implementing (On-premises) in Azure](https://github.com/AndrewJohnson-1/osTicketLab)
+  - [osTicket Help Desk Ticketing System - Azure Homelab](https://github.com/AndrewJohnson-1/osTicketLab)
   
 <h2>📃 Certifications</h2>
 
