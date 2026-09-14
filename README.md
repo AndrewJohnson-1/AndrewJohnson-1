@@ -6,7 +6,7 @@
 
 - <b>osTicket</b>
   - [Implementing (On-premises) in Azure](https://github.com/AndrewJohnson-1/ActiveDirectoryLab)
-  - 
+  
 <h2>📃 Certifications</h2>
 
 - [CompTIA Security+ ce Certification](https://www.credly.com/badges/f3e0d6a4-fe57-4928-adc9-3f959de9bd28/public_url)
